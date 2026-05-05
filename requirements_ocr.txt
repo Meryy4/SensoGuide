@@ -1,0 +1,10 @@
+# SensoGuide OCR dependencies
+# Install with: pip install -r requirements_ocr.txt
+
+easyocr>=1.7.1
+pyttsx3>=2.90
+opencv-python>=4.8.0
+
+# Already in your YOLOv8 env (listed for reference):
+# ultralytics>=8.0.0
+# numpy>=1.24.0

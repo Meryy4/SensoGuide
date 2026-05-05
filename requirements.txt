@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pyttsx3
+groq
+pygame
+pyobjc-framework-Vision
+pyobjc-framework-Quartz
