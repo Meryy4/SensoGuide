@@ -94,9 +94,7 @@ See `.env.example` for reference.
 - **Mobile**: React Native, Expo, TypeScript
 - **API**: Flask / FastAPI
 
-## Authors
 
-ENSEEIHT — INP Toulouse
 
 ## License
 
